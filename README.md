@@ -9,3 +9,18 @@
      
 dataset link: https://nullmax-vision.github.io/
    
+
+### 2. NOD dataset
+   - 14-bit RAW outdoor image, low-loght condition
+   - 7200 images (3200 Sony RX100 VII + 4000 Nikon D750)
+   - Annotation bbox 46000 instances: people, bicycle, car
+
+dataset link: https://github.com/igor-morawski/RAW-NOD/tree/main
+
+### 3. PASCALRAW
+   - 12-bit RAW image, 4259 daylight
+   - Nikon D3200 DSLR camera
+   - object class: person, bicycle, car
+
+
+dataset link: https://purl.stanford.edu/hq050zr7488
