@@ -1,0 +1,18 @@
+#dataset
+
+names:
+- zombie_0
+- zombie_1
+- zombie_2
+- zombie_3
+- zombie_4
+- zombie_5
+- zombie_6
+- zombie_7
+- zombie_8
+- zombie_9
+- cat
+nc: 11
+test: /media/EXT0/sanga/studio_project/zombie_cat_640/test.txt
+train: /media/EXT0/sanga/studio_project/zombie_cat_640/train.txt
+val: /media/EXT0/sanga/studio_project/zombie_cat_640/val.txt
