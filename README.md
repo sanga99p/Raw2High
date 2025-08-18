@@ -38,3 +38,11 @@ dataset link: https://github.com/cchen156/Learning-to-See-in-the-Dark?tab=readme
    - normal & dark images and annotation each for Raw and RGB
 
 dataset link: https://github.com/ying-fu/LODDataset
+
+
+### AODRaw dataset
+
+   - RAW & sRGB images
+   - 7,785 high resolution image with 125,601 annotation (62 categories)
+
+dataset link: https://github.com/lzyhha/AODRaw
