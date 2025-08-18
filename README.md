@@ -33,14 +33,14 @@ dataset link: https://purl.stanford.edu/hq050zr7488
 dataset link: https://github.com/cchen156/Learning-to-See-in-the-Dark?tab=readme-ov-file
 
 
-### 5. LOD dataset
+### 5. LOD dataset *
 
    - normal & dark images and annotation each for Raw and RGB
 
 dataset link: https://github.com/ying-fu/LODDataset
 
 
-### 6. AODRaw dataset
+### 6. AODRaw dataset *
 
    - RAW & sRGB images
    - 7,785 high resolution image with 125,601 annotation (62 categories)
